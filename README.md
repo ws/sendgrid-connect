@@ -1,4 +1,4 @@
 sendgrid-express
 ================
 
-Express middleware for SendGrid inbound parsing.
+Connect (and therefore Express) middleware for SendGrid inbound parsing.
